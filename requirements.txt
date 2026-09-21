@@ -1,0 +1,6 @@
+google
+google-generativeai
+moviepy
+python-dotenv
+requests
+telegram
